@@ -48,3 +48,5 @@ Check `articles.csv` to judge whether the rule fits your purpose.
 Push this folder to a GitHub repo. `.github/workflows/update.yml` reruns the tracker on the 1st
 of each month and commits the results; you can also start it from the repo's **Actions** tab.
 If the site blocks GitHub's servers, the job will fail; run it locally instead.
+
+![A.I. articles by month](output/ai_articles_by_month.png)
