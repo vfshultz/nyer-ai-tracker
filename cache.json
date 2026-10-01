@@ -135,7 +135,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    6
+    6,
+    7
    ]
   },
   "tags": [
@@ -252,7 +253,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    2
+    2,
+    3
    ]
   },
   "tags": [
@@ -774,7 +776,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    4
+    4,
+    5
    ]
   },
   "tags": [
@@ -1947,6 +1950,36 @@
   "title_ai": false,
   "words": 762
  },
+ "https://www.newyorker.com/culture/on-television/is-what-were-watching-true-or-false": {
+  "ai_mentions": 3,
+  "body_src": "json-ld",
+  "date": "2026-09-29",
+  "kw": [
+   "artificial-intelligence-ai",
+   "fashion",
+   "on-television",
+   "onecolumnnarrow",
+   "politics",
+   "television",
+   "textabovecenterfullbleednocontributor",
+   "the-lede",
+   "web"
+  ],
+  "listing_pages": {
+   "artificial-intelligence-ai": [
+    1
+   ]
+  },
+  "tags": [
+   "artificial-intelligence-ai",
+   "fashion",
+   "politics",
+   "television"
+  ],
+  "title": "Is What We\u2019re Watching True or False?",
+  "title_ai": false,
+  "words": 1060
+ },
  "https://www.newyorker.com/culture/on-television/welcome-to-the-age-of-broke-tv": {
   "date": "2026-07-22",
   "kw": [
@@ -1962,7 +1995,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    1
+    1,
+    2
    ]
   },
   "tags": [
@@ -1989,7 +2023,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    3
+    3,
+    4
    ]
   },
   "tags": [
@@ -2511,7 +2546,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    1
+    1,
+    2
    ]
   },
   "tags": [
@@ -2948,6 +2984,36 @@
   ],
   "title": "The Accidental Architect of the Internet\u2019s Brain"
  },
+ "https://www.newyorker.com/culture/the-lede/the-humanism-driving-the-anti-ai-movement": {
+  "ai_mentions": 60,
+  "body_src": "json-ld",
+  "date": "2026-09-30",
+  "kw": [
+   "artificial-intelligence-ai",
+   "doomsayers",
+   "humanism",
+   "inverted",
+   "onecolumnnarrow",
+   "populism",
+   "splitscreenimagerightfullbleed",
+   "the-lede",
+   "web"
+  ],
+  "listing_pages": {
+   "artificial-intelligence-ai": [
+    1
+   ]
+  },
+  "tags": [
+   "artificial-intelligence-ai",
+   "doomsayers",
+   "humanism",
+   "populism"
+  ],
+  "title": "The Humanism Driving the Anti-A.I. Movement",
+  "title_ai": true,
+  "words": 2413
+ },
  "https://www.newyorker.com/culture/the-lede/with-ai-anyone-can-be-an-influencer": {
   "date": "2026-04-25",
   "kw": [
@@ -3335,7 +3401,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    4
+    4,
+    5
    ]
   },
   "tags": [
@@ -66627,6 +66694,345 @@
   "title_ai": false,
   "words": 749
  },
+ "https://www.newyorker.com/magazine/2026/10/05/a-shadow-over-the-world-william-i-hitchcock-book-review": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "books",
+   "inverted",
+   "magazine",
+   "onecolumnnarrow",
+   "splitscreenimagerightinset"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "How America Became Antifascist",
+  "title_ai": false,
+  "words": 3612
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/are-public-spaces-really-for-the-public": {
+  "ai_mentions": 1,
+  "body_src": "json-ld",
+  "date": "2026-09-26",
+  "kw": [
+   "in-the-streets",
+   "magazine",
+   "splitscreenimageleftinset",
+   "talk-of-the-town"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Are Public Spaces Really for the Public?",
+  "title_ai": false,
+  "words": 800
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/bass-persuades-miley-cyrus-music-review": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-19",
+  "kw": [
+   "inverted",
+   "magazine",
+   "miley-cyrus",
+   "pop-music",
+   "splitscreenimagerightfullbleed"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [
+   "miley-cyrus"
+  ],
+  "title": "The Unknowable Miley Cyrus",
+  "title_ai": false,
+  "words": 1356
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/cartoon-recession-indicators": {
+  "ai_mentions": 0,
+  "body_src": "body-container",
+  "date": "2026-09-28",
+  "kw": [
+   "magazine",
+   "onecolumnnarrow",
+   "sketchpad",
+   "talk-of-the-town",
+   "textbelowcenterfullbleednocontributor"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Cartoon Recession Indicators",
+  "title_ai": false,
+  "words": 151
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/cookie-monster-tries-to-meet-his-ai-mandate": {
+  "ai_mentions": 14,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "magazine",
+   "shouts-murmurs",
+   "textaboveleftsmallwithrule"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Cookie Monster Tries to Meet His A.I. Mandate",
+  "title_ai": true,
+  "words": 602
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/dangelo-in-starlight-ishion-hutchinson-poem": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-27",
+  "kw": [
+   "magazine",
+   "noindex",
+   "poems",
+   "textaboveleftsmallwithrule"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "\u201cD\u2019Angelo in Starlight,\u201d by Ishion Hutchinson",
+  "title_ai": false,
+  "words": 122
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/detecting-notes-of-citi-field": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "magazine",
+   "splitscreenimageleftinset",
+   "talk-of-the-town",
+   "tasting-dept"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Detecting Notes of\u00a0.\u00a0.\u00a0. Citi Field?",
+  "title_ai": false,
+  "words": 826
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/gut-renos-of-ionesco-and-chekhov": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-24",
+  "kw": [
+   "magazine",
+   "splitscreenimagerightfullbleed",
+   "the-theatre"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Gut Renos of Ionesco and Chekhov",
+  "title_ai": false,
+  "words": 979
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/hockey-dads-and-hockey-sons": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "magazine",
+   "onecolumnnarrow",
+   "personal-history",
+   "splitscreenimagerightinset"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Hockey Dads and Hockey Sons",
+  "title_ai": false,
+  "words": 5029
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/letters-from-the-october-5-2026-issue": {
+  "ai_mentions": 3,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "magazine",
+   "textaboveleftsmallwithrule",
+   "the-mail"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Letters from Our Readers",
+  "title_ai": false,
+  "words": 913
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/more-sunshine-with-joey-arias-and-basil-twist": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "magazine",
+   "splitscreenimageleftinset",
+   "talk-of-the-town",
+   "twist-again-dept"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "More Sunshine with Joey Arias and Basil Twist",
+  "title_ai": false,
+  "words": 698
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/narrow-escape-fiction-aleksandr-solzhenitsyn": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-27",
+  "kw": [
+   "fiction",
+   "magazine",
+   "onecolumnnarrow",
+   "splitscreenimagerightinset"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "\u201cNarrow Escape,\u201d by Aleksandr Solzhenitsyn",
+  "title_ai": false,
+  "words": 2663
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/pawel-pawlikowski-profile": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "inverted",
+   "magazine",
+   "onecolumnnarrow",
+   "profiles",
+   "splitscreenimagerightinset"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "How Pawe\u0142 Pawlikowski Learned to Film Europe\u2019s Fractures",
+  "title_ai": false,
+  "words": 6251
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/primetime-movie-review": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-25",
+  "kw": [
+   "magazine",
+   "textbelowcenterfullbleednocontributor",
+   "the-current-cinema"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "The Predator Catcher Turns Predatory in \u201cPrimetime\u201d",
+  "title_ai": false,
+  "words": 1171
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/property-values-joshua-specht-book-review": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "a-critic-at-large",
+   "inverted",
+   "magazine",
+   "splitscreenimagerightfullbleed"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Why America Looks the Way It Does",
+  "title_ai": false,
+  "words": 3511
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/should-i-stay-or-should-i-go": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "annals-of-law",
+   "magazine",
+   "onecolumnnarrow",
+   "splitscreenimagerightinset"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "At the Department of Justice, Many Lawyers Are Wondering If It\u2019s Time to Quit",
+  "title_ai": false,
+  "words": 6569
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/the-president-vs-the-press": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-27",
+  "kw": [
+   "comment",
+   "magazine",
+   "splitscreenimagerightfullbleed",
+   "the-lede"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "The President vs. the Press",
+  "title_ai": false,
+  "words": 881
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/the-radiance-cloudthief-dear-dealer-citizen-beast": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "books",
+   "magazine",
+   "noindex",
+   "textaboveleftsmallwithrule"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Briefly Noted Book Reviews",
+  "title_ai": false,
+  "words": 501
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/weeping-willow-nantucket-stephanie-burt-poem": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-27",
+  "kw": [
+   "disable-inline-signup-unit",
+   "magazine",
+   "noindex",
+   "poems",
+   "textaboveleftsmallwithrule"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "\u201cWeeping Willow, Nantucket,\u201d by Stephanie Burt",
+  "title_ai": false,
+  "words": 236
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads": {
+  "ai_mentions": 0,
+  "body_src": "json-ld",
+  "date": "2026-09-28",
+  "kw": [
+   "letter-from-colorado",
+   "magazine",
+   "onecolumnnarrow",
+   "textoverlaycenterfullbleedgradient"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Why Doesn\u2019t Anyone Want to Fix One of America\u2019s Scariest Roads?",
+  "title_ai": false,
+  "words": 7604
+ },
+ "https://www.newyorker.com/magazine/2026/10/05/your-guide-to-navigating-the-parent-group-chat": {
+  "ai_mentions": 0,
+  "body_src": "body-container",
+  "date": "2026-09-28",
+  "kw": [
+   "magazine",
+   "onecolumnnarrow",
+   "sketchbook",
+   "textbelowcenterfullbleednocontributor"
+  ],
+  "mag_issue": "2026-10-05",
+  "tags": [],
+  "title": "Your Guide to Navigating the Parent Group Chat",
+  "title_ai": false,
+  "words": 154
+ },
  "https://www.newyorker.com/news/a-reporter-at-large/trumps-profiteering-hits-four-billion-dollars": {
   "ai_mentions": 2,
   "body_src": "json-ld",
@@ -67026,7 +67432,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    3
+    3,
+    4
    ]
   },
   "tags": [
@@ -67747,7 +68154,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    6
+    6,
+    7
    ]
   },
   "tags": [
@@ -67866,7 +68274,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    5
+    5,
+    6
    ]
   },
   "tags": [
@@ -68338,7 +68747,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    2
+    2,
+    3
    ]
   },
   "tags": [
@@ -68548,7 +68958,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    5
+    5,
+    6
    ]
   },
   "tags": [
@@ -69084,7 +69495,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    7
+    7,
+    8
    ]
   },
   "tags": [
@@ -69151,7 +69563,8 @@
   ],
   "listing_pages": {
    "artificial-intelligence-ai": [
-    7
+    7,
+    8
    ]
   },
   "tags": [
@@ -70274,5 +70687,9 @@
  "issue:2026-09-28": {
   "issue": true,
   "pieces": 19
+ },
+ "issue:2026-10-05": {
+  "issue": true,
+  "pieces": 21
  }
 }
